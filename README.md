@@ -4,7 +4,7 @@
 
 
 ## 環境構築
-- Arduino IDEを使用
+- Arduino IDEを使用<br>
   [サーボ制御ライブラリ](https://github.com/RoboticsBrno/ServoESP32)
 - hoge
 
